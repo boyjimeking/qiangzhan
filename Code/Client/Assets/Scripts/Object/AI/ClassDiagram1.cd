@@ -1,0 +1,375 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AIType_10" Collapsed="true">
+    <Position X="2.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAkIAAAAAAAAIAAAAEAAABAAgAAAABAQACAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Object\AI\AIType_10.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AIType_11" Collapsed="true">
+    <Position X="9" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAIAAAAAAAAAAAgAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Object\AI\AIType_11.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AIType_12" Collapsed="true">
+    <Position X="15.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAIAAAAAAAAAAAgAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Object\AI\AIType_12.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AIType_15" Collapsed="true">
+    <Position X="22.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAkIAAAAAAAAIAAAAEAAABAAgAAAABAQACAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Object\AI\AIType_15.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AIType_9" Collapsed="true">
+    <Position X="29.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAIAAAAAAAAAAAgAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Object\AI\AIType_9.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AIFactory" Collapsed="true">
+    <Position X="59.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Object\AI\core\AIFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AIGoal" Collapsed="true">
+    <Position X="29.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAABAAgAAAAAAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Object\AI\core\AIGoal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AIGoalCompositeGoal" Collapsed="true">
+    <Position X="50" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAABAAAAAAAABAEgAgAAEAAAAAAAAAiQBEAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Object\AI\core\AIGoal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AIGoalWalk" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAgAAAAAAAAAAAAAAAAAEAAAAEAA=</HashCode>
+      <FileName>Assets\Scripts\Object\AI\core\AIGoal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AIGoalRun" Collapsed="true">
+    <Position X="9.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAgAAAAAAAAAAAAAAAAAEAAAAEAA=</HashCode>
+      <FileName>Assets\Scripts\Object\AI\core\AIGoal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AIGoalMoveTo" Collapsed="true">
+    <Position X="16.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAgAAAAAAAAAAAAAAAAAEQAAAEAA=</HashCode>
+      <FileName>Assets\Scripts\Object\AI\core\AIGoal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AIGoalRandMoveTlimit" Collapsed="true">
+    <Position X="23" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAIBCAgAAAAAAgAAAAAAABCQEQAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Object\AI\core\AIGoal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AIGoalWait" Collapsed="true">
+    <Position X="29.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAgAAAAAAgAAAAAAAAAAEgAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Object\AI\core\AIGoal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AIGoalUseSkillToTarget" Collapsed="true">
+    <Position X="36.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIBAAgAAAAAAAAAAAAAABAAEAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Object\AI\core\AIGoal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AIGoalUseSkillToPosition" Collapsed="true">
+    <Position X="43.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAgAAAAAAACAAAAAABAAEAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Object\AI\core\AIGoal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AIGoalUseSkillToDirection" Collapsed="true">
+    <Position X="52.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAgAAAAAAAAAAAAAABgAEAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Object\AI\core\AIGoal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AIGoalSay" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABABgAAAAAAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Object\AI\core\AIGoal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AIGoalUseSkillToTargetRangeTime" Collapsed="true">
+    <Position X="11.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAIBCAgAAAAAAhAAAAAAABAAEQAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Object\AI\core\AIGoal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AIGoalApproachTarget" Collapsed="true">
+    <Position X="18.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAIBAAgAAAAAAAAAAAAAAAAAEQAAAACA=</HashCode>
+      <FileName>Assets\Scripts\Object\AI\core\AIGoal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AIGoalApproachTargetLimit" Collapsed="true">
+    <Position X="25.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIBAAgAAAAAAgAAAAAAAAAAEQAAAACQ=</HashCode>
+      <FileName>Assets\Scripts\Object\AI\core\AIGoal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AIGoalApproachPosition" Collapsed="true">
+    <Position X="32" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAABAAgAAAAAAAAAAAAAAAAAEQAAAACA=</HashCode>
+      <FileName>Assets\Scripts\Object\AI\core\AIGoal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AIGoalRandMove" Collapsed="true">
+    <Position X="38.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAFAEAAAQAAAABAAgAAAAAAAAAAAAAAAAAEQEAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Object\AI\core\AIGoal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AIGoalStand" Collapsed="true">
+    <Position X="45.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAABAAgAAAAAAgAAAgAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Object\AI\core\AIGoal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AIGoalDestorySelf" Collapsed="true">
+    <Position X="54.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAgAAAAAAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Object\AI\core\AIGoal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AIGoalLookAtTarget" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAIBAAgAAAAAAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Object\AI\core\AIGoal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AIGoalLookAtPosition" Collapsed="true">
+    <Position X="14" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAABAAgAAAAAAACAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Object\AI\core\AIGoal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AIGoalFlee" Collapsed="true">
+    <Position X="20.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAgAAAAAAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Object\AI\core\AIGoal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AIGoalTurnToTarget" Collapsed="true">
+    <Position X="27.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAgAAAABAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Object\AI\core\AIGoal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AIGoalTurnToPosition" Collapsed="true">
+    <Position X="34.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAgAAAAAAAAAAAAAAAAAEAAAAAgA=</HashCode>
+      <FileName>Assets\Scripts\Object\AI\core\AIGoal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AIGoalRandMoveRadius" Collapsed="true">
+    <Position X="41" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAQAAAABAAgAAAAAAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Object\AI\core\AIGoal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AIGoalSkillToTargetRange" Collapsed="true">
+    <Position X="47.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIBAAgAAAAAABAAAAAAABAAEQAAQAAA=</HashCode>
+      <FileName>Assets\Scripts\Object\AI\core\AIGoal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AIGoalPlayAni" Collapsed="true">
+    <Position X="56.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAgIAAAAAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Object\AI\core\AIGoal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AIState" Collapsed="true">
+    <Position X="2.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAQBAACAAAAAAAAAYAUAAAAIIIAAAEQAAA=</HashCode>
+      <FileName>Assets\Scripts\Object\AI\core\AIState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AIStateIdle" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAIAAAAEAAAA=</HashCode>
+      <FileName>Assets\Scripts\Object\AI\core\AIState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AIStateGoHome" Collapsed="true">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAEAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Object\AI\core\AIState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AIStateCombat" Collapsed="true">
+    <Position X="5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAUAAAAIIAAAAEAAAA=</HashCode>
+      <FileName>Assets\Scripts\Object\AI\core\AIState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaseAI" Collapsed="true">
+    <Position X="22.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IUQAEAAAAKCAHAAAEDgEgAwAwABIBhgASECHAEAJ/A8=</HashCode>
+      <FileName>Assets\Scripts\Object\AI\core\BaseAI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BattleUnitAI" Collapsed="true">
+    <Position X="22.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Object\AI\core\BattleUnitAI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CommonAI" Collapsed="true">
+    <Position X="22.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAkMAAAAAQBAICAkAIBAABRIgAAAQIQAiiICAQCYA=</HashCode>
+      <FileName>Assets\Scripts\Object\AI\core\CommonAI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FollowAI" Collapsed="true">
+    <Position X="40.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAkIAAAAAAAAIAAAAEAAABAAgAAAABAQACAAAACAA=</HashCode>
+      <FileName>Assets\Scripts\Object\AI\FollowAI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KanDaoAI" Collapsed="true">
+    <Position X="4.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAIAAAAAAAAAAAgAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Object\AI\KanDaoAI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LianShe" Collapsed="true">
+    <Position X="11.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAIAAAAAAAAAAAgAAIAAAAACAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Object\AI\LianShe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LianShe2" Collapsed="true">
+    <Position X="18" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAIAAAAAAAAAAAgAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Object\AI\LianShe2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LianSheAI" Collapsed="true">
+    <Position X="24.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAIAAAAAAAAAAAgAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Object\AI\LianSheAI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MuNaiYi" Collapsed="true">
+    <Position X="31.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAIAAAAAAAAAAAgAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Object\AI\MuNaiYi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PaoDaZhuang" Collapsed="true">
+    <Position X="36" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAggEEAAAQAAIABAACAAAAAAiBAAAAAGQSAAAAEEE=</HashCode>
+      <FileName>Assets\Scripts\Object\AI\PaoDaZhuang.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanDaZhuang" Collapsed="true">
+    <Position X="38.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAgAAAAAIAAAAAAAAAAAgAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Object\AI\QuanDaZhuang.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanPao" Collapsed="true">
+    <Position X="42.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAggEEAAAAAAIABAACAAAAAAgBAAAAAAQSAAAAAEE=</HashCode>
+      <FileName>Assets\Scripts\Object\AI\QuanPao.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SanShe" Collapsed="true">
+    <Position X="6.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAIAAAAAAAAAAAgAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Object\AI\SanShe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SheJiAI" Collapsed="true">
+    <Position X="13.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAIAAAAAAAAAAAgAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Object\AI\SheJiAI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SheJiShouWei" Collapsed="true">
+    <Position X="20.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAIAAAAAAAAAAAgAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Object\AI\SheJiShouWei.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TestAI" Collapsed="true">
+    <Position X="27" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAIAAAAAAAAAAAgBAAAAACECAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Object\AI\TestAI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZhiZhu" Collapsed="true">
+    <Position X="33.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAIAAAAAAAAAAAgAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Object\AI\ZhiZhu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="微软雅黑" Size="9" />
+</ClassDiagram>
